@@ -1,0 +1,6 @@
+place.name = the names place
+place.formatted_address = the mailing address of the place
+place.opening_hours.open_now = whether the place is open now or not
+place.photos.0.html_attributions = the url for the image
+place.rating = the rating of the place
+place.types = what the place could be considered as
